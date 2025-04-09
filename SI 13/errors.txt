@@ -2,8 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/gui.rpy", line 66: EOL while scanning string literal
-    "fonts/BryndanWriteBook-nGPM.ttf
+File "game/screens.rpy", line 154: expected 'simple_expression' not found.
+    yalign 
+           ^
 
 Ren'Py Version: Ren'Py 8.3.7.25031702
-Wed Apr  9 01:27:18 2025
+Wed Apr  9 16:04:16 2025
